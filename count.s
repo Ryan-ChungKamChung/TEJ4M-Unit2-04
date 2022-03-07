@@ -1,7 +1,7 @@
 /* -- sub.s
  * Created by: Ryan Chung
  * Created March 2022
- * Subtracts 15 and 3
+ * Counts down by 2 from 14 to 0
  */
 
 .global _start
