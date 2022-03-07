@@ -1,7 +1,7 @@
-/* -- add.s
+/* -- sub.s
  * Created by: Ryan Chung
  * Created March 2022
- * Adds 5 and 9
+ * Subtracts 15 and 3
  */
 
 .global _start
